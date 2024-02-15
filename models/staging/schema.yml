@@ -5,8 +5,9 @@ sources:
     database: data-engineer-413104
     schema: de2024
     tables:
-      - name: green_2022
-      - name: yellow_2022
+      - name: green_2019_07
+      - name: yellow_2019_07
+      - name: fhv_2019
 
 
 
